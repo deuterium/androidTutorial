@@ -1,0 +1,23 @@
+# built applcation files
+*.apk
+*.ap_
+
+# files for dex VM
+*.dex
+
+# java class files
+*.class
+
+# generated files
+MyFirstApp/bin/
+MyFirstApp/gen/
+
+# local configuration file
+local.properties
+
+# eclipse project files
+.classpath
+.project
+
+# android project/build files
+project.properties
