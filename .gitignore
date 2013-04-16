@@ -11,6 +11,8 @@
 # generated files
 MyFirstApp/bin/
 MyFirstApp/gen/
+bin/
+gen/
 
 # local configuration file
 local.properties
